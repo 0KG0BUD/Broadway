@@ -4,7 +4,7 @@ body {
 }
 
 .titlepic {
-  background-image: url("../images/building.png");
+  background-image: url("./Resources/images/building.png");
   color: white;
 }
 
